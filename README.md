@@ -115,31 +115,31 @@ Flow rules dynamically installed
 
 ### Topology Initialization
 
-![Topology](screenshots/topology.png)
+![Topology](Screenshots/topology.png)
 
 ---
 
 ### Controller Execution
 
-![Controller](screenshots/controller.png)
+![Controller](Screenshots/controller.png)
 
 ---
 
 ### Connectivity Test
 
-![Ping](screenshots/pingall.png)
+![Ping](Screenshots/pingall.png)
 
 ---
 
 ### Performance Test
 
-![iperf](screenshots/iperf.png)
+![iperf](Screenshots/iperf.png)
 
 ---
 
 ### Flow Table (Match–Action Rules)
 
-![Flows](screenshots/flows.png)
+![Flows](Screenshots/flows.png)
 
 ---
 
