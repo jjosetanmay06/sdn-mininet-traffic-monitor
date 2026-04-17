@@ -143,6 +143,10 @@ Flow rules dynamically installed
 
 ---
 
+### Traffic Monitoring (Controller Logs)
+
+![Monitoring](Screenshots/traffic_monitor.png)
+
 ## Key Learning
 
 * SDN separates control and data planes
