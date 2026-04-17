@@ -27,7 +27,7 @@ This topology allows testing inter-switch communication and realistic SDN behavi
 
 ```
 cd ~/pox
-./pox.py openflow.of_01 --port=6633 forwarding.l2_learning
+./pox.py openflow.of_01 misc.traffic_monitor
 ```
 
 ### 2. Run Mininet Topology
